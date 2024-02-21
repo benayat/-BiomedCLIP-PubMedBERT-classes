@@ -1,0 +1,23 @@
+{
+  "PCam": [
+    "normal lymph node",
+    "lymph node metastasis"
+  ],
+  "LC25000 (Lung)": [
+    "lung adenocarcinomas",
+    "normal lung tissue",
+    "lung squamous cell carcinomas"
+  ],
+  "LC25000 (Colon)": [
+    "colon adenocarcinomas",
+    "normal colonic tissue"
+  ],
+  "TCGA-TIL": [
+    "none",
+    "tumor infiltrating lymphocytes"
+  ],
+  "RSNA": [
+    "normal lung",
+    "pneumonia"
+  ]
+}

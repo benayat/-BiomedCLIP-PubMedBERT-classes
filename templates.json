@@ -1,0 +1,13 @@
+{
+  "templates": [
+    {"1": "this is an image of {}",
+      "2": "{} presented in image"}
+  ],
+  "datasets": {
+    "PCam": 0,
+    "LC25000 (Lung)": 0,
+    "LC25000 (Colon)": 0,
+    "TCGA-TIL": 0,
+    "RSNA": 0
+  }
+}
